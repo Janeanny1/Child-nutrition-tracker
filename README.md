@@ -19,14 +19,14 @@ A mobile app built with Flutter to help parents monitor and improve their childr
 
 ## 🛠️ Tech Stack
 
-| Layer       | Technology                |
+| Layer       | Technology               |
 |-------------|---------------------------|
-| **Frontend**| Flutter (Dart)            |
-| **Backend** | Supabase                  |
-| **Database**| Supabase SQL              |
-| **Auth**    | Supabase                  |
+| **Frontend**| Flutter (Dart)             |
+| **Backend** | Firebase / Supabase *(optional)* |
+| **Database**| Firestore or Supabase SQL |
+| **Auth**    | Firebase Auth / Supabase  |
 | **Charts**  | `fl_chart`, `charts_flutter` |
-| **Notifications** | Flutter Local Notifications / Supabase Messaging |
+| **Notifications** | Flutter Local Notifications / Firebase Messaging |
 
 ---
 
