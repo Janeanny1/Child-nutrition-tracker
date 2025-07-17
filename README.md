@@ -35,7 +35,7 @@ A mobile app built with Flutter to help parents monitor and improve their childr
 ### Prerequisites
 
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
-- Supabase *(if using supabase backend)*
+- Firebase/Supabase *(if using supabase/firebase backend)*
 
 ### Installation
 
@@ -68,16 +68,32 @@ flutter run
 lib/
 ├── main.dart
 ├── screens/
-│   ├── home_screen.dart
-│   ├── log_meal_screen.dart
-│   └── profile_screen.dart
-├── widgets/
-│   ├── meal_card.dart
-│   └── nutrient_chart.dart
-├── models/
-│   └── child_profile.dart
-└── services/
-    └── database_service.dart
+│                           
+│   ├── ├── login_screen.dart     
+│   │   └── signup_screen.dart
+│   ├── └── dashboard_screen.dart                         
+│   ├── ├── children_screen.dart    
+│   ├── └── home_screen.dart                
+│   ├── └── log_meal_screen.dart    
+│   ├── └── nutrition_screen.dart 
+│   ├── └── tips_screen.dart                 
+│   └── └── add_tip_screen.dart 
+│                
+├── widgets/                     
+│   ├── child_selector.dart
+│   ├── customer_input.dart             
+│
+├── models/                      
+│   ├── child_model.dart
+│   ├── meal_model.dart
+│   └── tip_model.dart
+│
+├── services/                    
+│   ├── auth_service.dart
+│   ├── child_service.dart
+│   ├── meal_service.dart
+│   └── tip_service.dart
+
 ```
 
 ---
