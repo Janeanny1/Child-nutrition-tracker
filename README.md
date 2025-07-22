@@ -75,15 +75,25 @@ lib/
 ```
 
 ---
-# How to run 
+# 🚀 How to run
 
-## 📌 Clone
+## 🚀 How to run Locally
+### 💻 System Requirements
+- Flutter SDK
+- Dart SDK
+- Firebase Project	Configured via FlutterFire CLI
+- Android Studio / VS Code
+  
+### 📌 Clone
 - git clone https://github.com/Janeanny1/Child-nutrition-tracker.git
 - cd 
 Child-nutrition-tracker
   
-
-## 📦 Get Flutter Packages
+### 🔥 Firebase Configuration
+- Authentication	Email/Password + Google Sign-In (Eneble)
+- Firestore	Stores user data & nutrition logs
+  
+#### 📦 Get Flutter Packages
 - dart pub global activate flutterfire_cli
 - flutterfire configure
 - flutter clean
