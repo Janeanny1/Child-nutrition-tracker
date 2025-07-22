@@ -75,13 +75,13 @@ lib/
 ```
 
 ---
-#How to run 
+# How to run 
 
 ## 📌 Clone
 - git clone https://github.com/Janeanny1/Child-nutrition-tracker.git
 - cd 
 Child-nutrition-tracker
-- 
+  
 
 ## 📦 Get Flutter Packages
 - dart pub global activate flutterfire_cli
