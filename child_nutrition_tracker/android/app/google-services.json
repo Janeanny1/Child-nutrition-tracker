@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "637512075578",
+    "project_id": "child-nutrition-tracker",
+    "storage_bucket": "child-nutrition-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637512075578:android:8f0d96a94f8e61ac21e803",
+        "android_client_info": {
+          "package_name": "com.example.child_nutrition_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637512075578-r0e8kvm8jqj7dgunte5kd1dgkkipil6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.child_nutrition_tracker",
+            "certificate_hash": "7d264debc71c3bd89f068b701b8f030f0d515919"
+          }
+        },
+        {
+          "client_id": "637512075578-e8us8h4aj0auhbcuntjstfepkq9kg9k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2yRUpbF1kW_ggmb_Sls2G05BDE8Eqyu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637512075578-e8us8h4aj0auhbcuntjstfepkq9kg9k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637512075578-subaqbd4smjdfmce99hnpcmdmf91dgeu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.childNutritionTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
