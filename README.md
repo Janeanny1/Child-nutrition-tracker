@@ -81,7 +81,7 @@ lib/
 ### 💻 System Requirements
 - Flutter SDK
 - Dart SDK
-- Firebase Project	Configured via FlutterFire CLI
+- Firebase Project	Configured via https://firebase.flutter.dev/docs/cli/
 - Android Studio / VS Code
   
 ### 📌 Clone
