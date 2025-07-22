@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBilcqFy-LhnLaydLcoDqxjSS8dR8O3xSg',
+    apiKey: 'enter firebase key',
     appId: '1:637512075578:web:67e1c720490fd86a21e803',
     messagingSenderId: '637512075578',
     projectId: 'child-nutrition-tracker',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB2yRUpbF1kW_ggmb_Sls2G05BDE8Eqyu4',
+    apiKey: 'enter firebase key',
     appId: '1:637512075578:android:8f0d96a94f8e61ac21e803',
     messagingSenderId: '637512075578',
     projectId: 'child-nutrition-tracker',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCCQEJe8wrnnPwS0ifoprJGaZkLnpBQvwU',
+    apiKey: 'enter firebase key',
     appId: '1:637512075578:ios:4a3d27d81d52d2ff21e803',
     messagingSenderId: '637512075578',
     projectId: 'child-nutrition-tracker',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCCQEJe8wrnnPwS0ifoprJGaZkLnpBQvwU',
+    apiKey: 'enter firebase key',
     appId: '1:637512075578:ios:4a3d27d81d52d2ff21e803',
     messagingSenderId: '637512075578',
     projectId: 'child-nutrition-tracker',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBilcqFy-LhnLaydLcoDqxjSS8dR8O3xSg',
+    apiKey: 'enter firebase key',
     appId: '1:637512075578:web:a261bcd4f567d9d521e803',
     messagingSenderId: '637512075578',
     projectId: 'child-nutrition-tracker',
